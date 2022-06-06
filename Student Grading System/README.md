@@ -1,5 +1,5 @@
 
-#Student Grading System
+# Student Grading System
 
 Course Class Features:
 Attributes: name,code,prefix,note,Teacher
